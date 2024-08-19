@@ -42,3 +42,12 @@ This project aims to predict oral temperature using infrared thermography data t
     ├── model_evaluation.py            # Model evaluation and cross-validation
     └── visulization.py                # Visualization of model performance
 
+
+## Requirements
+- Python 3.x
+- pandas
+- numpy
+- scikit-learn
+- torch (for MLP)
+- matplotlib
+
